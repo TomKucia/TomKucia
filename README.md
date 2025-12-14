@@ -41,7 +41,7 @@ I'm a passionate data engineer specializing in building scalable data solutions 
 
 - 💼 LinkedIn: [linkedin.com/in/tomkucia](https://www.linkedin.com/in/tomkucia/)
 - 📧 Email: [tom.kucia@gmail.com]
-- 🌐 Company: [RightOnFifth.com]
+- 🌐 Company: [RightOnFifth.com](https://www.RightOnFifth.com)
 
 ### 📊 GitHub Stats
 
